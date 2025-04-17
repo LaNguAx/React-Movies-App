@@ -1,4 +1,4 @@
-# usePopcorn-React
+# React Movies App
 
 A simple React application for browsing and managing your favorite movies.
 
